@@ -5,11 +5,8 @@ Project Overview:
 This project is a machine learning-based system that classifies SMS messages as either spam or ham (not spam). It uses the Multinomial Naive Bayes algorithm trained on a labeled dataset of real-world SMS messages. The model is deployed using Streamlit to provide a simple, interactive web interface for users to test messages in real time.
 
 Objectives:
-
 To preprocess and analyze SMS text data.
-
 To train a machine learning model that accurately detects spam messages.
-
 To build an interactive Streamlit web application for real-time prediction.
 
 Technologies Used:
@@ -24,14 +21,10 @@ Recall: 98.1%
 F1-score: 97.1%
 
 How to Run the Project:
-
 Clone or download the project folder from this repository.
-
 (Optional) Install the required dependencies if you have a requirements.txt file.
-
 Run the Streamlit app using the command:
 streamlit run app.py
-
 Enter a text message and check whether it is spam or ham.
 
 Dataset:
@@ -44,9 +37,7 @@ BCA - Yeldo Mar Baselios College
 Affiliated to Mahatma Gandhi University
 
 Future Enhancements:
-
 Add support for multiple languages.
-
 Integrate the system with chat or email platforms.
 
 Use deep learning models to improve accuracy.
